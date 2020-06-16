@@ -1,6 +1,6 @@
 # rk3399-ubuntukylin2004  
 a project based on ubuntu20.04 and ubuntukylin 20.04 for rk3399  
-# 一个基于ubuntu、ubuntkylin的树莓派镜像的  
+# 一个基于ubuntu、ubuntukylin的树莓派镜像的  
 rk3399的rootfs，于20200616初步验证，发布rc1版本  
   
 #存在较多的已知bug，希望大家有兴趣的可以提bug。
